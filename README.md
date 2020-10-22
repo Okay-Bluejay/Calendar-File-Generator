@@ -1,4 +1,5 @@
-ics
+Calendar File Generator
+This repo was forked from original project adamgibbons/ics. 
 ==================
 
 The [iCalendar](http://tools.ietf.org/html/rfc5545) generator
